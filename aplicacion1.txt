@@ -1,3 +1,5 @@
 mi linea 1
 mi linea 2
-Ahora si una linea 3
+modifico la linea 3 y pongo algo distinto
+estoy parado en la rama1 y agrego una linea 4
+estoy parado en la rama1 y agrego una linea 5
